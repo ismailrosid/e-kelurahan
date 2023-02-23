@@ -1,0 +1,20 @@
+.surat-header {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.surat-content {
+  font-family: "Times New Roman", Times, serif;
+}
+.surat-col-1 {
+  width: 21%;
+}
+
+.surat-col-2 {
+  width: 2%;
+}
+
+.surat-col-3 {
+  width: 77%;
+}
+.fs-header-3 {
+  font-size: 0.8rem;
+}
